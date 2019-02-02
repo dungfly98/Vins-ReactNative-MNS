@@ -1,0 +1,5 @@
+const ACTION_TYPES = {
+    CHANGE_NAME: 'CHANGE_NAME',
+    CHANGE_NUMBER: 'CHANGE_NUMBER'
+}
+export default ACTION_TYPES;
